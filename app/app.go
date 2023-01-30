@@ -102,13 +102,13 @@ import (
 	wasmclient "github.com/CosmWasm/wasmd/x/wasm/client"
 	wasmkeeper "github.com/CosmWasm/wasmd/x/wasm/keeper"
 
-	"github.com/softtscoder/timpiwasm/docs"
+	"github.com/softtscoder/cosmospublish /docs"
 	// this line is used by starport scaffolding # stargate/app/moduleImport
 )
 
 const (
 	AccountAddressPrefix = "timpi"
-	Name                 = "timpiwasm"
+	Name                 = "cosmospublish "
 )
 
 var (

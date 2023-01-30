@@ -1,4 +1,4 @@
-module github.com/softtscoder/timpiwasm
+module github.com/softtscoder/cosmospublish 
 
 go 1.18
 
